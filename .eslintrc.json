@@ -1,0 +1,6 @@
+{
+  "plugin": "rxjs",
+  "rules": {
+    "rxjs/finnish": "error"
+  }
+}
